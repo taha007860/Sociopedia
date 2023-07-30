@@ -25,4 +25,4 @@ To see a demo of Sociopedia in action, please click [here](https://drive.google.
 
 ## 📷 Screenshot
 
-![Sociopedia Screenshot](/path/to/screenshot.png)
+![Sociopedia Screenshot](socio.png)
